@@ -11,7 +11,7 @@ Hello, I am an aspiring Data Engineer who likes to turn Data into Information an
 * 🤘  You can explore data engineering projects on my profile, which I'm developing while mastering their applications.
   
 🧑🏻‍🏫 I am currenly learning
-* Exporing Modern Data Stack - Python.
+* Exploring Modern Data Stack - Python.
 * AWS Cloud (S3, Lambda, Glue, Athena).
 * How to architectect better data system.
 
