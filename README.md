@@ -5,14 +5,18 @@ _Data Engineer  |  Data Warehouse Developer  |  ETL Developer_
 -------------
 Hello, I am an aspiring Data Engineer who likes to turn Data into Information and Information into Insights.
 
-* 🌍  I'm based in Telangana, India
+* 🌍  I'm based in Telangana, India.
 * ✉️  You can contact with me at [chiranjeevilakkakula@gmail.com](mailto:chiranjeevilakkakula@gmail.com)
-* 🧠  I'm learning Snowflake Cloud Platform Administration
-* 🤝  I'm open to collaborating on Snowflake Cloud Computing Projects
-* ⚡  I'm a great Cook
+* 🤝  I'm open to collaborating on Snowflake Cloud Computing Projects.
+* 🤘  You can explore data engineering projects on my profile, which I'm developing while mastering their applications.
+  
+🧑🏻‍🏫 _**I am currenly learning**_
+* Exporing Modern Data Stack - Python.
+* AWS Cloud (S3, Lambda, Glue, Athena).
+* How to architectect better data system.
 
-<a href="https://www.github.com/chiranjeevilakkakula" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/chiranjeevilakkakula?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+ _**My Certifications and Courses**_
+  * [Snowflake Snow Pro Core Certified](https://www.credly.com/badges/539a6b70-b814-46a3-8619-bfae79218982/public_url)
 
 ### _Skills_
 
@@ -26,4 +30,6 @@ src="https://img.shields.io/github/followers/chiranjeevilakkakula?logo=github&st
 
 <p align="left"> <a href="https://www.github.com/chiranjeevilakkakula" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/chiranjeevi-lakkakula" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
+### _Recomendations_
 
+![Architecture Diagram](https://github.com/ChiranjeeviLakkakula/Spotify-Data-Engineering-Project/blob/main/SpotifyDataPipeline.png)
