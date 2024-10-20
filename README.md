@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 _Data Engineer  |  Data Warehouse Developer  |  ETL Developer_
 -------------
-Hello, I am an aspiring Data Engineer who likes to turn Data into Information and Information into Insights.
+I am an aspiring Data Engineer with 9+ years professional experience who likes to turn Data into Information and Information into Insights.
 
 * 🌍  I'm based in Telangana, India.
 * ✉️  You can contact with me at [chiranjeevilakkakula@gmail.com](mailto:chiranjeevilakkakula@gmail.com)
