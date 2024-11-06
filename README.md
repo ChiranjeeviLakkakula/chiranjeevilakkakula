@@ -12,7 +12,7 @@ I am an aspiring Data Engineer with 9+ years professional experience who likes t
   
 🧑🏻‍🏫 I am currenly learning
 * Exploring Modern Data Stack - Python.
-* AWS Cloud (S3, Lambda, Glue, Athena).
+* AWS Cloud (S3, Lambda, Glue, Athena), Airflow
 * How to architectect better data system.
 
 ## _My Certifications and Courses_
