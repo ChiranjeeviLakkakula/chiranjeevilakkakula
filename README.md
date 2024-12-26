@@ -5,7 +5,7 @@ _Data Engineer  |  Data Warehouse Developer  |  ETL Developer_
 -------------
 I am an aspiring Data Engineer with 9+ years professional experience who likes to turn Data into Information & Information into Insights.
 
-* 🌍  I'm based in Telangana, India.
+* 🌍  I'm based in Telangana, India. And currently undergoing an exciting career transition to Europe.
 * ✉️  You can contact with me at [chiranjeevilakkakula@gmail.com](mailto:chiranjeevilakkakula@gmail.com)
 * 🤝  I'm open to collaborating on Snowflake Cloud Computing Projects.
 * 🤘  You can explore data engineering projects on my profile, which I'm developing while mastering their applications.
